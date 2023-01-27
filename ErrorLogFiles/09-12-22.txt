@@ -1,0 +1,2 @@
+09-12-2022 11:41:09   ine 383   HttpException   System.Web.HttpException   http://localhost:57903/frmCustomers.aspx      DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'UserID'.   
+09-12-2022 11:42:28   ine 384   HttpException   System.Web.HttpException   http://localhost:57903/frmCustomers.aspx      DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'UserID'.   
